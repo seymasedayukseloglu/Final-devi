@@ -10,7 +10,6 @@
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
 
 ### Özellikler
-- **Puanlama Sistemi:** Oyuncuların performansını değerlendiren detaylı bir puanlama sistemi.
 - **Mini Oyunlar:**
   - **Kart Eşleştirme:** Hafızayı test eden eğlenceli bir oyun.
   - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.
