@@ -1,4 +1,4 @@
-*Zihin Labirenti*
+###*Zihin Labirenti*
 
 *Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.*
 
