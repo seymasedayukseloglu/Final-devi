@@ -1,4 +1,7 @@
-# Zihin Labirenti
+![image](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/ece909c9-cc40-4349-93ed-5707f30e427a)# Zihin Labirenti
+
+![Ekran görüntüsü 2024-05-29 222306](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2)
+
 
 **Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.**
 
@@ -6,16 +9,14 @@
 
 Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.
 
-![Zihin Labirenti](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/539b5fd5-5856-4256-b1c0-d844ad181db9)
-
-
 ### Yükleme / Başlarken
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
 
 ### Özellikler
 - **Mini Oyunlar:**
   - **Kart Eşleştirme:** Hafızayı test eden eğlenceli bir oyun.
-  - ![Kart Eşleştirme](images/kart-eslestirme.png)
+  - ![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220)
+
   - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.
   - ![Hesaplama Ölçer](images/hesaplama-olcer.png)
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
@@ -33,6 +34,7 @@ Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı ka
 
 1. **Labirente Giriş:**
    - Oyuncu, labirente giriş yapar ve etrafı keşfederek ilk kapıyı bulur.
+   - 
 
 2. **Kart Eşleştirme Oyunu:**
    - İlk kapıdan giren oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini test eder. Oyuncu, belirli bir süre içinde eşleşen kart çiftlerini bulmaya çalışır.
