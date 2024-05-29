@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2024-05-29 215647](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/d5cc7024-7b79-4a1a-ad5f-a63d8cf41b07)# Zihin Labirenti
+# Zihin Labirenti
 
 **Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.**
 
