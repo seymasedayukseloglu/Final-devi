@@ -6,6 +6,8 @@
 
 Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.
 
+![Zihin Labirenti](zihin-labirenti.png)
+
 ### Yükleme / Başlarken
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
 
@@ -16,7 +18,6 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
 - **Grafikler ve Sesler:** Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.
 - **Kullanıcı Dostu Arayüz:** Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.
-
 
 ### Tanıtım Videosu
 Daha fazla bilgi için oyunun tanıtım videosunu izleyebilirsiniz:
@@ -40,6 +41,12 @@ Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı ka
 
 5. **Labirente Dönüş:**
    - Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır.
+
+6. **Balık Hafıza Oyunu:**
+   - Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır.
+
+Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur.
+
 
 6. **Balık Hafıza Oyunu:**
    - Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır.
