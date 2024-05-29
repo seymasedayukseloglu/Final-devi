@@ -1,4 +1,4 @@
-![image](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/ece909c9-cc40-4349-93ed-5707f30e427a)# Zihin Labirenti
+# Zihin Labirenti
 
 ![Ekran görüntüsü 2024-05-29 222306](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2)
 
