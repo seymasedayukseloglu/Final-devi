@@ -1,4 +1,4 @@
-# Zihin Labirenti
+![Ekran görüntüsü 2024-05-29 215933](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/df309d7f-3bfc-4b88-b8d3-f43a80fa9b10)# Zihin Labirenti
 
 ![Ekran görüntüsü 2024-05-29 222306](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2)
 
@@ -17,10 +17,19 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
   - **Kart Eşleştirme:** Hafızayı test eden eğlenceli bir oyun.
   - ![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220)
 
-  - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.
-  - ![Hesaplama Ölçer](images/hesaplama-olcer.png)
+  - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.                                                                                                                          ! 
+    [Ekran görüntüsü 2024-05-29 215933](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/5efd8d9c-a9a8-469e-a748-c75e9093a752)
+    ![Ekran görüntüsü 2024-05-29 215953](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/d35dd976-50a1-4806-b2e7-52d1ead9a576)
+
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
-  - ![Balık Hafıza Oyunu](images/balik-hafiza.png)
+
+ ![Uploading Ekran görüntüsü 2024-05-29 220043.png…]()
+
+  ![Uploading Ekran görüntüsü 2024-05-29 220054.png…]()
+
+  ![Uploading Ekran görüntüsü 2024-05-29 220150.png…]()
+
+
 - **Grafikler ve Sesler:** Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.
 - **Kullanıcı Dostu Arayüz:** Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.
 
