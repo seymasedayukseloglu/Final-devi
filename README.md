@@ -6,7 +6,6 @@
 
 Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.
 
-![Zihin Labirenti](zihin-labirenti.png)
 
 ### Yükleme / Başlarken
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
