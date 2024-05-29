@@ -6,8 +6,8 @@
 
 Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.
 
-![Zihin Labirenti](images/zihin-![zihin-labirenti png](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/539b5fd5-5856-4256-b1c0-d844ad181db9)
-labirenti.png)
+![Zihin Labirenti](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/539b5fd5-5856-4256-b1c0-d844ad181db9)
+
 
 ### Yükleme / Başlarken
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
