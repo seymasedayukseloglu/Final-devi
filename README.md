@@ -1,4 +1,4 @@
-# Zihin Labirenti
+![Ekran görüntüsü 2024-05-29 215647](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/d5cc7024-7b79-4a1a-ad5f-a63d8cf41b07)# Zihin Labirenti
 
 **Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.**
 
@@ -6,6 +6,8 @@
 
 Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.
 
+![Zihin Labirenti](images/zihin-![zihin-labirenti png](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/539b5fd5-5856-4256-b1c0-d844ad181db9)
+labirenti.png)
 
 ### Yükleme / Başlarken
 Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.
@@ -13,8 +15,11 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
 ### Özellikler
 - **Mini Oyunlar:**
   - **Kart Eşleştirme:** Hafızayı test eden eğlenceli bir oyun.
+  - ![Kart Eşleştirme](images/kart-eslestirme.png)
   - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.
+  - ![Hesaplama Ölçer](images/hesaplama-olcer.png)
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
+  - ![Balık Hafıza Oyunu](images/balik-hafiza.png)
 - **Grafikler ve Sesler:** Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.
 - **Kullanıcı Dostu Arayüz:** Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.
 
@@ -46,8 +51,3 @@ Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı ka
 
 Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur.
 
-
-6. **Balık Hafıza Oyunu:**
-   - Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır.
-
-Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur.
