@@ -17,7 +17,6 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
 - **Grafikler ve Sesler:** Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.
 - **Kullanıcı Dostu Arayüz:** Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.
 
-![Uploading Ekran görüntüsü 2024-05-27 100049.png…]()
 
 ### Tanıtım Videosu
 Daha fazla bilgi için oyunun tanıtım videosunu izleyebilirsiniz:
