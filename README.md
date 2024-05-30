@@ -18,7 +18,9 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
   - ![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220)
 
   - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.                                                                                                                          ! 
-  
+   ![Hesap Ölçümü]
+![Ekran görüntüsü 2024-05-29 215933](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033)
+![Ekran görüntüsü 2024-05-29 215953](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4eb75c20-7e69-4b1e-965b-a30f3b92c4c1)
 
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
 
