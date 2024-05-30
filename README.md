@@ -1,7 +1,6 @@
 # Zihin Labirenti
 
-![Ekran görüntüsü 2024-05-29 222306](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2)
-
+![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png)
 
 **Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.**
 
@@ -15,17 +14,13 @@ Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir 
 ### Özellikler
 - **Mini Oyunlar:**
   - **Kart Eşleştirme:** Hafızayı test eden eğlenceli bir oyun.
-  - ![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220)
+  - ![Kart Eşleştirme](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png)
 
   - **Hesaplama Ölçer:** Matematiksel becerileri sınayan zorlu sorular.                                                                                                                          ! 
-![Ekran görüntüsü 2024-05-29 215933](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033)
-![Ekran görüntüsü 2024-05-29 215953](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4eb75c20-7e69-4b1e-965b-a30f3b92c4c1)
+![Hesaplama Ölçer](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033.png)
 
   - **Balık Hafıza Oyunu:** Hafızayı güçlendiren interaktif bir oyun.
-![Ekran görüntüsü 2024-05-29 220043](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4460d784-5d1d-4e03-8f6e-1b07589d42c2)
-![Ekran görüntüsü 2024-05-29 220054](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b)
-![Ekran görüntüsü 2024-05-29 220150](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610)
-
+![Balık Hafıza Oyunu](https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4460d784-5d1d-4e03-8f6e-1b07589d42c2.png)
 
 - **Grafikler ve Sesler:** Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.
 - **Kullanıcı Dostu Arayüz:** Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.
@@ -40,20 +35,19 @@ Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı ka
 
 1. **Labirente Giriş:**
    - Oyuncu, labirente giriş yapar ve etrafı keşfederek ilk kapıyı bulur.
-   - 
-
+   
 2. **Kart Eşleştirme Oyunu:**
    - İlk kapıdan giren oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini test eder. Oyuncu, belirli bir süre içinde eşleşen kart çiftlerini bulmaya çalışır.
-
+   
 3. **Labirente Dönüş:**
    - Kart eşleştirme oyununu tamamlayan oyuncu, yeniden labirente döner ve ikinci kapıyı arar.
-
+   
 4. **Hesaplama Ölçer Oyunu:**
    - İkinci kapıyı bulan oyuncu, hesaplama ölçer oyununa girer. Bu oyun, oyuncunun matematiksel becerilerini ve dikkatini sınar. Oyuncu, verilen hesaplamaları hızlı ve doğru bir şekilde çözmeye çalışır.
-
+   
 5. **Labirente Dönüş:**
    - Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır.
-
+   
 6. **Balık Hafıza Oyunu:**
    - Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır.
 
