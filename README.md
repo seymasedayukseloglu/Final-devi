@@ -3,17 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  h2 {
-    background-color: #f0f0f0;
-    padding: 10px;
-    border-radius: 5px;
-  }
-</style>
 </head>
 <body>
 
-<h1>Zihin Labirenti</h1>
+<h1> <u>Zihin Labirenti</u></h1>
 
 <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 100%; height: auto;">
 
@@ -47,15 +40,12 @@
         <ul>
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4460d784-5d1d-4e03-8f6e-1b07589d42c2.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
-<li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
-</ul>
-</li>
-</ul>
+          <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
+        </ul>
 
-  </li>
-</ul>
 <h2>Oyun Akışı</h2>
-<p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.</p>
+<p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.
+</p>
 <ol>
   <li><strong>Labirente Giriş:</strong>
     <ul>
@@ -64,31 +54,32 @@
   </li>
   <li><strong>Kart Eşleştirme Oyunu:</strong>
     <ul>
-      <li>İlk kapıdan giren oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini test eder. Oyuncu, belirli bir süre içinde eşleşen kart çiftlerini bulmaya çalışır.</li>
+      <li> İlk kapıdan giren oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini test eder. Oyuncu, belirli bir süre içinde eşleşen kart çiftlerini bulmaya çalışır.
+      </li>
     </ul>
   </li>
-  <li><strong>Labirente Dönüş:</strong>
-    <ul>
-      <li>Kart eşleştirme oyununu tamamlayan oyuncu, yeniden labirente döner ve ikinci kapıyı arar.</li>
-    </ul>
+  <li><strong>Labirente Dönüş</strong>
+<ul>
+<li>Kart eşleştirme oyununu tamamlayan oyuncu, yeniden labirente döner ve ikinci kapıyı arar. </li>
+</ul>
+
   </li>
   <li><strong>Hesaplama Ölçer Oyunu:</strong>
     <ul>
-      <li>İkinci kapıyı bulan oyuncu, hesaplama ölçer oyununa girer. Bu oyun, oyuncunun matematiksel becerilerini ve dikkatini sınar. Oyuncu, verilen hesaplamaları hızlı ve doğru bir şekilde çözmeye çalışır.</li>
+      <li>İkinci kapıyı bulan oyuncu, hesaplama ölçer oyununa girer. Bu oyun, oyuncunun matematiksel becerilerini ve dikkatini sınar. Oyuncu, verilen hesaplamaları hızlı ve doğru bir şekilde çözmeye çalışır. </li>
     </ul>
   </li>
   <li><strong>Labirente Dönüş:</strong>
     <ul>
-      <li>Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır.</li>
+      <li>Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır. </li>
     </ul>
   </li>
   <li><strong>Balık Hafıza Oyunu:</strong>
     <ul>
-      <li>Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır.</li>
+      <li>Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır. </li>
     </ul>
   </li>
 </ol>
 <p>Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur.</p>
 </body>
 </html>
-
