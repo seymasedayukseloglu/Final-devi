@@ -38,13 +38,12 @@
      <br> <li><strong>Hesaplama Ölçer:</strong> Matematiksel becerileri sınayan zorlu sorular. </li> <br>
       <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033.png" alt="Hesaplama Ölçer" style="max-width: 50%; height: auto;">
           <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4eb75c20-7e69-4b1e-965b-a30f3b92c4c1.png" alt="Hesaplama Ölçer" style="max-width: 50%; height: auto;"> <br>
-      <li><strong>Balık Hafıza Oyunu:</strong> Hafızayı güçlendiren interaktif bir oyun. <br>
-        <ul>
-          <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4460d784-5d1d-4e03-8f6e-1b07589d42c2.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;"></li>
-          <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;"></li>
-          <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;"></li> 
-        </ul>
-        <br> 
+      
+<li><strong>Balık Hafıza Oyunu:</strong> Hafızayı güçlendiren interaktif bir oyun. <br>  <br> 
+  
+   <br>   <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4460d784-5d1d-4e03-8f6e-1b07589d42c2.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;">
+         <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;">
+       <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;">   <br> 
 
 <h2>Oyun Akışı</h2>
 <p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.
