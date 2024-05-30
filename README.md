@@ -9,7 +9,7 @@
 <h1>Zihin Labirenti</h1>
 
 
-<img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 25%; height: 25px;">
+<img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="width: 50px; height: 50px;">
 
 <p><strong>Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.</strong></p>
 <p><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</p>
