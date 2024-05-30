@@ -11,6 +11,12 @@
 <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 100%; height: auto;">
 
 <p><strong>Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.</strong></p>
+   </li>
+    </ul>
+  </li>
+  <li><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</li>
+  <li><strong>Kullanıcı Dostu Arayüz:</strong> Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.</li>
+</ul>
 
 <p><strong>Ana Mesaj:</strong> "Hafıza, hesaplama ve strateji! Hepsini başar, labirentten çık!"</p>
 
@@ -40,16 +46,6 @@
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 100%; height: auto;"></li>
         </ul>
-      </li>
-    </ul>
-  </li>
-  <li><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</li>
-  <li><strong>Kullanıcı Dostu Arayüz:</strong> Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.</li>
-</ul>
-
-<h2>Tanıtım Videosu</h2>
-<p>Daha fazla bilgi için oyunun tanıtım videosunu izleyebilirsiniz:</p>
-<p><a href="https://youtu.be/PSKk0RiG6kc?si=CWlAK6CAvJ7nt1kX">YouTube Tanıtım Videosu</a></p>
 
 <h2>Oyun Akışı</h2>
 <p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.
