@@ -9,7 +9,7 @@
 <h1>Zihin Labirenti</h1>
 
 
-<img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 70%; height: auto;">
+<img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 50%; height: auto;">
 
 <p><strong>Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.</strong></p>
 <p><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</p>
@@ -18,13 +18,16 @@
 <p><strong>Ana Mesaj:</strong> "Hafıza, hesaplama ve strateji! Hepsini başar, labirentten çık!"</p>
 
 <p>Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.</p>
+<br> <br>
 
 <h2>Tanıtım Videosu</h2>
 <p>Daha fazla bilgi için oyunun tanıtım videosunu izleyebilirsiniz:</p>
 <p><a href="https://youtu.be/PSKk0RiG6kc?si=CWlAK6CAvJ7nt1kX">YouTube Tanıtım Videosu</a></p>
+<br> <br>
 
 <h2>Yükleme / Başlarken</h2>
 <p>Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.</p>
+<br> <br>
 
 <h2>Özellikler</h2>
 <ul>
@@ -46,6 +49,7 @@
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/f18bd928-cbb3-4ac6-93c1-cce431fafb2b.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;"></li>
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/14b52baa-0844-4ae0-8d0a-a3eefb50e610.png" alt="Balık Hafıza Oyunu" style="max-width: 50%; height: auto;"></li>
         </ul>
+        <br> <br>
 
 <h2>Oyun Akışı</h2>
 <p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.
@@ -84,6 +88,7 @@
     </ul>
   </li>
 </ol>
+<br> 
 <p>Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur.</p>
 </body>
 </html>
