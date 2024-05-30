@@ -11,13 +11,9 @@
 <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 100%; height: auto;">
 
 <p><strong>Android ve PC platformları için Unity/C# kullanılarak geliştirilmiş eğitici bir beceri oyunudur.</strong></p>
-   </li>
-    </ul>
-  </li>
-  <li><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</li>
-  <li><strong>Kullanıcı Dostu Arayüz:</strong> Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.</li>
-</ul>
-
+<p><strong>Grafikler ve Sesler:</strong> Müzik ve hareketli çalışma dahil olmak üzere tüm varlık dosyaları mevcuttur.</p>
+<p><strong>Kullanıcı Dostu Arayüz:</strong> Hem Android hem de PC platformlarında kolay kullanım sağlayan arayüz.</p>
+  
 <p><strong>Ana Mesaj:</strong> "Hafıza, hesaplama ve strateji! Hepsini başar, labirentten çık!"</p>
 
 <p>Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.</p>
