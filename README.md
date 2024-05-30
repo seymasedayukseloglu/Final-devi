@@ -48,6 +48,8 @@
 <p><a href="https://youtu.be/PSKk0RiG6kc?si=CWlAK6CAvJ7nt1kX">YouTube Tanıtım Videosu</a></p>
 
 <h3>Oyun Akışı</h3>
+<p>Oyuncu, oyuna zorlu bir labirente girerek başlar. Bu labirentte üç farklı kapı bulunmaktadır ve her kapının ardında bir mini oyun saklıdır.
+</p>
 <ol>
   <li><strong>Labirente Giriş:</strong>
     <ul>
@@ -56,4 +58,29 @@
   </li>
   <li><strong>Kart Eşleştirme Oyunu:</strong>
     <ul>
-      <li>Oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun,
+      <li> İlk kapıdan giren oyuncu, kart eşleştirme oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini test eder. Oyuncu, belirli bir süre içinde eşleşen kart çiftlerini bulmaya çalışır.
+      </li>
+      <li><strong>Labirente Dönüş:</strong>
+    <ul>
+      <li>Kart eşleştirme oyununu tamamlayan oyuncu, yeniden labirente döner ve ikinci kapıyı arar. </li>
+    </ul>
+  </li>
+     <li><strong>Hesaplama Ölçer Oyunu:</strong>
+    <ul>
+      <li>İkinci kapıyı bulan oyuncu, hesaplama ölçer oyununa girer. Bu oyun, oyuncunun matematiksel becerilerini ve dikkatini sınar. Oyuncu, verilen hesaplamaları hızlı ve doğru bir şekilde çözmeye çalışır. </li>
+    </ul>
+  </li>
+     <li><strong>Labirente Dönüş:</strong>
+    <ul>
+      <li>Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır. </li>
+    </ul>
+  </li>
+     <li><strong>Balık Hafıza Oyunu:</strong>
+    <ul>
+      <li> Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır. </li>
+    </ul>
+  </li>
+  <p> Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur. </p>
+      
+</body>
+</html>
