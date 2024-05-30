@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<p> <h1><u> Zihin Labirenti </u></h1></p>
+<h1 style="text-decoration: underline;">Zihin Labirenti</h1>
+
 
 <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/2b44c8cb-1be6-4c3b-bc4a-8fd1848ad8b2.png" alt="Labirent Ekran Görüntüsü" style="max-width: 100%; height: auto;">
 
