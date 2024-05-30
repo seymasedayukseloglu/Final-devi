@@ -34,8 +34,8 @@
   <h3><li><strong>Mini Oyunlar:</strong></li> </h3>
     <br> 
     <ul>
-   <li><strong>Kart Eşleştirme:</strong> Hafızayı test eden eğlenceli bir oyun. </li> <br>  <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png" alt="Kart Eşleştirme" style="max-width: 50%; height: auto;">  <br>
-     <li><strong>Hesaplama Ölçer:</strong> Matematiksel becerileri sınayan zorlu sorular. </li> <br>
+   <li><strong>Kart Eşleştirme:</strong> Hafızayı test eden eğlenceli bir oyun. </li> <br>  <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png" alt="Kart Eşleştirme" style="max-width: 50%; height: auto;">  <br>  <br> 
+     <br> <li><strong>Hesaplama Ölçer:</strong> Matematiksel becerileri sınayan zorlu sorular. </li> <br>
       <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033.png" alt="Hesaplama Ölçer" style="max-width: 50%; height: auto;">
           <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/4eb75c20-7e69-4b1e-965b-a30f3b92c4c1.png" alt="Hesaplama Ölçer" style="max-width: 50%; height: auto;"> <br>
       <li><strong>Balık Hafıza Oyunu:</strong> Hafızayı güçlendiren interaktif bir oyun. <br>
