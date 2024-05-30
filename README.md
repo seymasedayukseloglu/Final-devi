@@ -72,7 +72,7 @@
   </li>
      <li><strong>Labirente Dönüş:</strong>
     <ul>
-      <li>Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır. </li>
+      <li> Hesaplama oyununu bitiren oyuncu, tekrar labirente döner ve son kapıyı bulmaya çalışır. </li>
     </ul>
   </li>
      <li><strong>Balık Hafıza Oyunu:</strong>
@@ -80,6 +80,7 @@
       <li> Üçüncü kapıya ulaşan oyuncu, balık hafıza oyunu ile karşılaşır. Bu oyun, oyuncunun hafızasını ve dikkatini yeniden test eder. Oyuncu, belirli bir süre içinde aynı balık çiftlerini bulmaya çalışır. </li>
     </ul>
   </li>
+    </ol>
   <p> Zihin Labirenti, eğlenceli ve eğitici bir oyun deneyimi sunarken, oyuncuların zekâlarını ve hafızalarını geliştirmelerine de yardımcı olur. </p>
       
 </body>
