@@ -34,7 +34,7 @@
   <h3><li><strong>Mini Oyunlar:</strong></li> </h3>
     <br> <br>
     <ul>
-      <li><strong>Kart Eşleştirme:</strong> Hafızayı test eden eğlenceli bir oyun. <br> <br>  <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png" alt="Kart Eşleştirme" style="max-width: 50%; height: auto;"></li>
+     <h4> <li><strong>Kart Eşleştirme:</strong> Hafızayı test eden eğlenceli bir oyun. <br> <br>  <img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/09c24f60-6ca5-4326-a164-22bdfa763220.png" alt="Kart Eşleştirme" style="max-width: 50%; height: auto;"></li>   </h4>
      <li><strong>Hesaplama Ölçer:</strong> Matematiksel becerileri sınayan zorlu sorular. <br> <br>
         <ul>
           <li><img src="https://github.com/seymasedayukseloglu/Proje-Odevi/assets/148879631/689f33bf-b727-435a-9eae-e2e901932033.png" alt="Hesaplama Ölçer" style="max-width: 50%; height: auto;"></li>
