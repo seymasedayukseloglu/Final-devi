@@ -16,6 +16,10 @@
 
 <p>Şeyma Seda Yükseloğlu tarafından geliştirilmiştir.</p>
 
+<h2>Tanıtım Videosu</h2>
+<p>Daha fazla bilgi için oyunun tanıtım videosunu izleyebilirsiniz:</p>
+<p><a href="https://youtu.be/PSKk0RiG6kc?si=CWlAK6CAvJ7nt1kX">YouTube Tanıtım Videosu</a></p>
+
 <h2>Yükleme / Başlarken</h2>
 <p>Projeyi klonlayın ve proje dizinini Unity ile açın. Buradan değiştirebilir ve/veya test edebilirsiniz.</p>
 
